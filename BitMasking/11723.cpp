@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm>
-
+// 비트 연산자로
 using namespace std;
 int state;
 

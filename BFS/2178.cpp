@@ -23,7 +23,7 @@ int main()
         cin >> board[i];
 
     for (int i = 0; i < n; i++)
-        fill(dist[i], dist[i] + m, -1); // dist 배열 -1로 초기화
+        fill(dist[i], dist[i] + m, -1); // dist 배열 -1로 초기화함
 
     queue<pair<int, int>> Q;
     Q.push({0, 0});

@@ -12,7 +12,7 @@ int one_cnt(long long x)
     {
         one += ((x >> i) & 1);
     }
-    return one; // 1의 개수를 구하는 함수
+    return one; // 1의 개수를 구하는 함수임
 }
 
 int main()
