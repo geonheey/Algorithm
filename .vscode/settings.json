@@ -11,6 +11,7 @@
         "list": "cpp",
         "string": "cpp",
         "ostream": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "istream": "cpp"
     }
 }
